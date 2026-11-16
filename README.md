@@ -21,15 +21,15 @@ O AgroGreen resolve esses gargalos fornecendo:
 ---
 ## Requerimentos de Hardware
 
-ESP32
-Sensor DHT
-Cabos para conexão
+* ESP32
+* Sensor DHT
+* Cabos para conexão
 
 ## Requerimentos de Software
 
-Node.js
-Docker 
-PlatformIO | Arduino IDE
+* Node.js
+* Docker 
+* PlatformIO | Arduino IDE
 
 ---
 
