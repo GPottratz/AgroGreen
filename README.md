@@ -4,7 +4,7 @@ O **AgroGreen** é uma plataforma SaaS (Software as a Service) desenvolvida para
 
 ---
 
-## O Problema e a Solução
+## O Problema e a Solução 
 
 ### O Problema
 Produtores agrícolas e gestores de estufas enfrentam desafios constantes na manutenção da produtividade e uso eficiente de recursos:
@@ -28,7 +28,7 @@ Cabos para conexão
 ## Requerimentos de Software
 
 Node.js
-Docker
+Docker 
 PlatformIO | Arduino IDE
 
 ---
