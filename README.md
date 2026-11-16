@@ -66,8 +66,10 @@ docker compose up -d
 ```
 # Resultados
 
-## Arquitetura
+## Arquitetura do servidor
 <img width="1920" height="1080" alt="arquitetura servidor (5)" src="https://github.com/user-attachments/assets/bcf050f3-49d0-4656-b5ac-e5e4a8eb6bdb" />
+
+## Modelagem de dados
 <img width="1920" height="1080" alt="usuario" src="https://github.com/user-attachments/assets/a82303e7-44bf-438e-9332-297aa68d83f1" />
 
 ## Hardware
