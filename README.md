@@ -19,6 +19,17 @@ O AgroGreen resolve esses gargalos fornecendo:
 * **Decisões Baseadas em Dados:** Histórico visual em gráficos para identificação de padrões climáticos e prevenção de estresse vegetal.
 
 ---
+## Requerimentos de Hardware
+
+ESP32
+Sensor DHT
+Cabos para conexão
+
+## Requerimentos de Software
+Node.js
+Docker
+PlatformIO | Arduino IDE
+---
 
 ## Tecnologias Utilizadas por Camada
 
@@ -47,8 +58,22 @@ A arquitetura do sistema é dividida em módulos independentes, desacoplados e c
 ## Como rodar o projeto
 Para executar o projeto, é necessário certificar-se de que o Docker já esteja instalado. Após, execute os comandos a seguir:
 ```bash
-git clone https://github.com/Guipo1/AgroGreen.git
+git clone https://github.com/GPottratz/AgroGreen.git
 cd AgroGreen
 docker compose up -d
 ```
+# Resultados
 
+## Arquitetura
+<img width="1920" height="1080" alt="arquitetura servidor (5)" src="https://github.com/user-attachments/assets/bcf050f3-49d0-4656-b5ac-e5e4a8eb6bdb" />
+<img width="1920" height="1080" alt="usuario" src="https://github.com/user-attachments/assets/a82303e7-44bf-438e-9332-297aa68d83f1" />
+
+## Hardware
+<img width="879" height="879" alt="ESP32" src="https://github.com/user-attachments/assets/98f1ab20-f1f0-4471-bd87-cac862b02a3e" />
+
+## Software
+<img width="1920" height="872" alt="dashboard" src="https://github.com/user-attachments/assets/28b2e6b7-1e1d-4099-84e5-e4b541d7c4b0" />
+
+---
+## Licença
+MIT
