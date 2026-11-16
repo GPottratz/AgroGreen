@@ -14,9 +14,9 @@ Produtores agrícolas e gestores de estufas enfrentam desafios constantes na man
 
 ### A Solução AgroGreen
 O AgroGreen resolve esses gargalos fornecendo:
-1. **Telemetria em Tempo Real:** Leitura constante de parâmetros climáticos vitais por estufa e por sensor.
-2. **Irrigação Híbrida Inteligente:** Alternância entre o **Modo Automático** (agendamento de regas programadas com duração controlada) e o **Modo Manual** (acionamento imediato da bomba).
-3. **Decisões Baseadas em Dados:** Histórico visual em gráficos para identificação de padrões climáticos e prevenção de estresse vegetal.
+* **Telemetria em Tempo Real:** Leitura constante de parâmetros climáticos vitais por estufa e por sensor.
+*  **Irrigação Híbrida Inteligente:** Alternância entre o **Modo Automático** (agendamento de regas programadas com duração controlada) e o **Modo Manual** (acionamento imediato da bomba).
+* **Decisões Baseadas em Dados:** Histórico visual em gráficos para identificação de padrões climáticos e prevenção de estresse vegetal.
 
 ---
 
