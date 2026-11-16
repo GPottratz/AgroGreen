@@ -26,9 +26,11 @@ Sensor DHT
 Cabos para conexão
 
 ## Requerimentos de Software
+
 Node.js
 Docker
 PlatformIO | Arduino IDE
+
 ---
 
 ## Tecnologias Utilizadas por Camada
